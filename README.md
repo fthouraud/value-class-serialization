@@ -1,5 +1,6 @@
 # value-class-serialization
-A sample project to reproduce a bug regarding value class serialization.
+
+A sample project to reproduce a bug regarding value class serialization. The related issue is [KT-57647](https://youtrack.jetbrains.com/issue/KT-57647/Serialization-IllegalAccessError-Update-to-static-final-field-caused-by-serializable-value-class).
 
 ## Running the tests
 
